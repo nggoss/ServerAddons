@@ -1,8 +1,12 @@
 ServerAddons
 ============
+This is a repository for all of the current, non-steam workshop, server addons.
 
-This is a repository for all of the current server addons.
->More addons will be added as requested.
+
+You should also download the steam workshop addons from here:
+>(Link to the steam workshop collection)
+
+More addons will be added as requested.
 
 Installation
 ============
