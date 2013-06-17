@@ -1,4 +1,4 @@
-ServerAddons by Nate Goss
+ServerAddons
 ============
 
 This is a repository for all of the current server addons.
