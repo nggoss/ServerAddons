@@ -4,7 +4,7 @@ This is a repository for all of the current, non-steam workshop, server addons.
 
 
 You should also download the steam workshop addons from here:
->(Link to the steam workshop collection)
+>http://steamcommunity.com/sharedfiles/filedetails/?id=152539761
 
 More addons will be added as requested.
 
