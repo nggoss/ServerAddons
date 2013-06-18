@@ -3,4 +3,4 @@ CHANGELOG FOR SERVERADDONS
 
 17.06.2013:	Created repo and updated readme. Also created web page for easy download. Files will be added tonight.
 17.06.2013:	Added pages to wiki, updated readme and web page for better layout.
-17.06.2013: Committed all ( I think ) of the data for the server addons. Will be double checking later.
+17.06.2013:	Committed all ( I think ) of the data for the server addons. Will be double checking later.
